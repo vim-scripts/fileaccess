@@ -1,0 +1,7 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=1180
+
+At first, this script looks like mruex.vim script. Please choose favarite one among them.
+
+When we work, we access many files, and in general they are in different directories. Thus we have to type related( or absolute ) path or move to the directory which includes the file which we want to access. 
+
+This script help you to omit to type such a tiresome work. This script keeps file name and its absolute directory information which you accessed, and you can briefly access the file which you read or wrote previously.
